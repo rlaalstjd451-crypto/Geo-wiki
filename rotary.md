@@ -11,7 +11,7 @@
 
 ---
 
-![서귀포 중앙로터리(<img width="600" height="453" alt="image" src="https://github.com/user-attachments/assets/4002f03d-b6ca-4f1d-a0c2-48b494fb91cd" />)
+<img width="600" height="453" alt="image" src="https://github.com/user-attachments/assets/4002f03d-b6ca-4f1d-a0c2-48b494fb91cd" />
 > 서귀포시의 대표적인 교통 중심지
 
 ---
