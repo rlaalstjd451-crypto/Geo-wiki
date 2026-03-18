@@ -8,3 +8,5 @@
 
 ### 3.1. 주요 모습
 서귀포 중앙로터리에는 많은 상점들이 있다.
+
+<img width="600" height="453" alt="image" src="https://github.com/user-attachments/assets/4002f03d-b6ca-4f1d-a0c2-48b494fb91cd" />
